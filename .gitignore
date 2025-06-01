@@ -1,0 +1,181 @@
+# TechInterviews Project .gitignore
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+.DS_Store
+Thumbs.db
+
+# Build and distribution files
+build/
+dist/
+*.pyc
+__pycache__/
+
+# Environment and virtual environment files
+.env
+.venv/
+env/
+venv/
+
+# PDF and large files
+*.pdf
+
+# Personal files
+Kaushik_resume.pdf
+
+# IDE specific files
+*.iml
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Maven/Java specific
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.iml
+.idea/
+*.ipr
+*.iws
+*.class
+*.log
+*.rej
+*.swo
+*.swp
+*.orig
+*.bak
+*.tmp
+*.temp
+
+# Python specific
+*.py[cod]
+__pycache__/
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+ENV/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Markdown files that might be generated
+*.md~
+*.md.swp
+
+# Coding practice files
+*.class
+*.out
+*.exe
+*.dll
+*.obj
+*.lib
+*.pdb
+*.log
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Debug and test files
+*.test
+*.spec
+*.pyd
+*.pyo
+*.pyc
+
+# Coverage files
+coverage/
+htmlcov/
+*.coverage
+
+# Documentation build files
+_docs/
+_docs_build/
+
+# Specific files from your project
+Kaushik_resume.pdf
+
+# Windows system files
+*.lnk
+*.exe
+*.dll
+*.pdb
+
+# Database files
+*.sqlite3
+*.db
+*.dat
+
+# Debug files
+*.pdb
+*.pyd
+*.pyo
+
+# Coverage files
+coverage/
+htmlcov/
+*.coverage
+
+# Test files
+*.test
+*.spec
+
+# Documentation build files
+_docs/
+_docs_build/
+
+# Specific files that should be ignored
+*.class
+*.out
+*.exe
+*.dll
+*.obj
+*.lib
+*.pdb
+*.log
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
