@@ -1,0 +1,45 @@
+{
+    "ticket": {
+      "rows": 3,
+      "columns": 9
+    },
+    "rules": {
+      "TOP_LINE": {
+        "type": "line",
+        "line": 0,
+        "matchCount": 5
+      },
+      "MIDDLE_LINE": {
+        "type": "line",
+        "line": 1,
+        "matchCount": 5
+      },
+      "BOTTOM_LINE": {
+        "type": "line",
+        "line": 2,
+        "matchCount": 5
+      },
+      "FULL_HOUSE": {
+        "type": "fullHouse"
+      },
+      "DUMMY_RULE": {
+        "type": "dummy",
+        "count": 5
+      },
+      "EARLY_FIVE": {
+        "type": "earlyFive",
+        "count": 5
+      },
+      "FIRST_COLUMN": {
+        "type": "column",
+        "column": 1,
+        "matchCount": 3
+      },
+      "THIRD_COLUMN": {
+        "type": "column",
+        "column": 3,
+        "matchCount": 2
+      }
+    }
+  }
+  

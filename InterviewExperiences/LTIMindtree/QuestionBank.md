@@ -1,0 +1,185 @@
+# LTIMindtree
+
+[Tech-Interviews](../../README.md) -> [Experiences](../Experiences.md) -> [LTIMindtree](../LTIMindtree/LTIMindtree.md) -> [QuestionBank](../LTIMindtree/QuestionBank.md)
+
+# Question Bank
+- @Autoconfiguration in detail?
+- @Controller / @restcontroller difference?
+- @Qualifier/@primary difference and when needed?
+- @Transactional attributes and explain each attributes purpose?
+- == And equals differences?
+- Abstract class can have a constructor or not?
+- Acid properties?
+- Actuator (purpose/dependency/etc)
+- Advantages of microservices?
+- Aop details? (Log /audit/etc)
+- Api gateway/distributed logging/distributed tracing/circuit breaker?
+- Aws/ docker/ kubernetes?
+- Basic sql queries?
+- Bean lifecycle?
+- Bean scope? And explain each with example?
+- Binary search/liner search?
+- Call be reference/call by value?
+- Can be override static method?
+- Can we use synchronized keyword for class levels?
+- Circuit breaker mechanism?
+- Collection frame work in details?
+- Comparable/comparator explain with program?
+- Component scan filters?
+- Concurrent hashmap mechanism?
+- Connection pooling/ thread pooling?
+- Custom exception with @controladvice and @restcontroladvice?
+- Data member overriding?
+- Deployment activity & configure api?
+- Design pattern (singleton/factory/abstract factory/adapter/builder/proxy)
+- Difference b/w app properties or yaml file?
+- Difference b/w array and collections from object class?
+- Difference b/w compile time exception and run time exception with programs?
+- Difference b/w hibernate/jpa?
+- Difference b/w spring and springboot?
+- Difference between componentscan and @bean?
+- Difference between hashmap/ concurrent hashmap/ synchronized hashmap?
+- Difference between queryparam and pathvariable?
+- Difference between static and final?
+- Dyna trace?
+- Eager/lazy explain and when its needed?
+- Enum can extends or implement interface or not?
+- Exception hierarchy?
+- Executor framework
+- Explain fully with program for predicate, supplier, consumer, function
+- Factorial / fibonacci/ swapping variable/finding duplicates/palindrome/prime numbers with collections streams and without these?
+- Fault tolerance?
+- Garbage collector process?
+- Hashmap internal mechanism?
+- Hashtable mechanism?
+- Hibernate load/get?
+- How can we avoid collision?
+- How many ways we can set portnumber?
+- How microservices will communicate each other?
+- How to calculate story points?
+- How to change ip address dynamically in microservices?
+- How to collect as map using stream api?
+- How to configure hibernate/jpa in spring?
+- How to create constants?
+- How to create immutable class?
+- How to create static inner class &  how to create object?
+- How to exclude specific packages or classes in springboot?
+- How to implementation spring security with jwt?
+- How to maintain /improve database performance?
+- How to make each field validation?
+- How to map async req/ async resp?
+- How to rollback based on custom exception in @transactional?
+- How to secure microservices?
+- How to write unit test for private static void method?
+- How we can configure multiple databases in spring boot project?
+- How we can create marker interface?
+- How we can improve the performance of apis?
+- Isolation levels in transactions
+- Java 11 features?
+- Java 8 features (stream api/lamda/functional interface/optional) sample program each
+- Java memory model in java 8?
+- Junit mockito?
+- Jvm internal process?
+- Jwt token validation in detail/ all parts?
+- List of method from stream api java 8?
+- Maven commands?
+- Maven lifecycle?
+- Memory management in java?
+- Multi threading?
+- Mvps?
+- Oauth/jwt fully structures and its internal architecture
+- Oops concepts in details and sample program for each concepts?
+- Pass by value / pass by references?
+- Purpose of indexes?
+- Purrpose of transient variable and serialversionid?
+- Recursive/ iterator?
+- Redis cache mechanism in detail/ with annotation configurations?
+- Resources bundles?
+- Retry mechanism annotations? In spring boot microservices?
+- Saga pattern in microservice?
+- Serialization of advantages/ disadvantages
+- spring boot application can work if we set portnumber to zero?
+- Spring boot application lifecycle?
+- Spring boot started dependencies?
+- Spring boot version? What are important things to handle when application migration to higher springboot version?
+- Spring security oauth 2  authentication
+- springboot can update automatically of we did any changes in project?
+- String immutability concepts/ object state/ string constant pool/all string methods
+- swagger and openapi?
+- Swagger creation?
+- Synchronized hashmap internal mechanism?
+- Synchronized hashmap mechanism?
+- Table can automatically create if we use hibernate jpa?
+- Thread executor framework?
+- Try with resources? And write a example program?
+- Type of garbage collector?
+- Url configurations in microservices? How static and dynamic?
+- What algorithm used by garbage collector?
+- What annotation are used in entity class to have parent child relationship?
+- What are new concepts in functional interfaces from java 8?
+- What are scenarios we can use synchronized keywords?
+- What are the commands available in spring boot>
+- what are the final class is available in java
+- what are the place we can use synchronized keyword?
+- What are the predefined functional interfaces available in java? And how to confirm that is functional interface?
+- What are the propagation type available in transaction?
+- What are the scenario we can user parallel stream?
+- What are the things happening if we use @springbootapplication
+- what are the things make a singleton object? Write program?
+- What collectors comparing/groupingby()?
+- What is @enableautoconfiguration?
+- What is acid properties in db?
+- What is adapter design pattern?
+- What is api gateway and how to configure in springboot?
+- What is callable interface?
+- What is constructor overloading?
+- What is data at rest and data at transit?
+- What is ddl/dml?
+- What is deadlock & how to solve that?
+- What is default size of arraylist/linkedlist
+- what is difference b/w ispresent() / if present()?
+- What is difference b/w option of/ nullable?
+- What is difference b/w recursion /iterator?
+- What is difference b/w webclient and rest template?
+- What is direct /indirect recursion
+- What is enum set?
+- What is heap dump?
+- What is indexing?
+- What is jms?
+- What is kafka and explain pub/sub model?
+- What is log monitoring? What are the tools available in market?
+- What is metaspace?
+- What is method argument invalid exception?
+- What is multithreading and executor framework?
+- What is pc register?
+- What is persistent key?
+- What is profile concepts/explain in details?
+- What is purpose @transaction?
+- What is rehashing?
+- What is split iterator?
+- What is spring batch?
+- What is spring cloud?
+- What is spring data jpa/spring transaction?
+- What is static variable/emethods/class?
+- What is string joins?
+- What is the difference between date and local date?
+- What is the purpose of config maps?
+- What is the purpose of hibernate configuration/mapping file?
+- What is the purpose of intern() method?
+- What is two way ssl & ssl details?
+- What is view and materialized view?
+- What is webclient and write request code to get data from api?
+- What is webflux?
+- What the purpose of static and default methods in functional interface of java8?
+- What the things need to be configure in spring boot application for transaction management
+- what will happen if not mentioned serial versioned?
+- What will happened in hashmap if hashcode() method return always hardcoded value as 1?
+- When concurrent modify exception will come and how to tackle that
+- Where we and store db/other confirguration?
+- Where we configure all application configurations in microservices?
+- Why functional interface required in java8?
+- Why string is immutable?
+- Write a program with hashmap and implement equals() hashcodes concepts?
+- Write custom exception for method argument invalid exceptions?
+- Write query to get 2nd max salary from table?
+- Write solid principle programs with each principle?
